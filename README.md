@@ -1,14 +1,12 @@
 ## Hi 👋,I'm a BCS Student!
-Aspiring Software Devloper | 
-Currently Learning Java |
-Interested in Coding and Problem Solving
+### BCS Student| Aspiring Software Devloper | 
+Currently Learning Java 
 
-## My Skills 
- - Java
- - Python
- - HTML
- - CSS
- - SQL
+## Tech Stack
+ - Java- Python -c++ - HTML - CSS - SQL
+   
+ ## Interestd
+ Software Devlopment | Coding | Technology
 
  ##  My Goal
  To become a skilled Software Devloper.
