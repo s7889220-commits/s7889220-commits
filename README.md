@@ -1,6 +1,6 @@
 ## Hi 👋,I'm a BCS Student!
-Aspiring Software Devloper
-Currently Learning Java
+Aspiring Software Devloper | 
+Currently Learning Java |
 Interested in Coding and Problem Solving
 
 ## My Skills 
