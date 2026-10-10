@@ -3,10 +3,17 @@
 Currently Learning Java 
 
 ## Tech Stack
- - Java- Python -c++ - HTML - CSS - SQL
+ - Java
+ - Python
+ - c++
+ - HTML
+ - CSS
+ - SQL
    
  ## Interestd
  Software Devlopment | Coding | Technology
+ ---
+ Learning ,Building, Growing.
 
  ##  My Goal
  To become a skilled Software Devloper.
