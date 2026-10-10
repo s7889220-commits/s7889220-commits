@@ -10,7 +10,7 @@ Currently Learning Java
  - CSS
  - SQL
    
- ## Interestd
+ ## Interests
  Software Devlopment | Coding | Technology
  ---
  Learning ,Building, Growing.
